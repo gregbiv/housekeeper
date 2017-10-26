@@ -1,0 +1,6 @@
+package: github.com/gregbiv/voucher-generator
+import:
+  - package: github.com/google/go-github/github
+    version: master
+  - package: golang.org/x/oauth2
+    version: master
