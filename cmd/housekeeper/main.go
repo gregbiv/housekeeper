@@ -1,4 +1,4 @@
-package housekeeper
+package main
 
 import (
 	"context"

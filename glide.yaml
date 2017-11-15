@@ -1,4 +1,4 @@
-package: github.com/gregbiv/voucher-generator
+package: github.com/gregbiv/housekeeper
 import:
   - package: github.com/google/go-github/github
     version: master
